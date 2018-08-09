@@ -1,2 +1,3 @@
 # sprocket_lang
-My simple testing language
+
+So I had no idea what to do in a long time, so I begun with this, why? because why not!
